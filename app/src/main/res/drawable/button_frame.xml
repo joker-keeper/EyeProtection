@@ -1,0 +1,8 @@
+<!-- res/drawable/button_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />  <!-- 边框颜色 -->
+    <corners android:radius="10dp" /> <!-- 圆角半径 -->
+</shape>

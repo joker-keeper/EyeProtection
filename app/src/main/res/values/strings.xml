@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EyeProtection</string>
+    <string name="login">SIGN IN</string>
+    <string name="loginbtn">Sign in</string>
+    <string name="signUpbtn">Sign up</string>
+    <string name="accountName">ACCOUNT NAME</string>
+    <string name="accountHint">Please input your account name:</string>
+    <string name="passwordHint">Please input your password:</string>
+    <string name="password">PASSWORD</string>
+    <string name="signUpHint">Don\'t have an account? Click here to sign up</string>
+    <string name="signUp">SIGN UP</string>
+</resources>
